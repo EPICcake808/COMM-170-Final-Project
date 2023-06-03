@@ -12,6 +12,7 @@ public class MainManager : MonoBehaviour
     public bool belliot;
     public bool jake;
     public bool saunder;
+    public bool cyle;
 
     public int currentHints { get; set; }
 
@@ -38,6 +39,7 @@ public class MainManager : MonoBehaviour
         jake = false;
         saunder = false;
     }
+
     public void SetHints(int hintcount)
     {
         PlayerPrefs.SetInt(hintKey, hintcount);
@@ -91,6 +93,19 @@ public class MainManager : MonoBehaviour
             SetHints(hints);
             saunder = true;
             Debug.Log("saunder hint activated");
+            Debug.Log("Hints: " + PlayerPrefs.GetInt(hintKey));
+        }
+    }
+
+    public void cyleActivate()
+    {
+        int hints = PlayerPrefs.GetInt(hintKey);
+        if(cyle == false)
+        {
+            hints += 1;
+            SetHints(hints);
+            cyle = true;
+            Debug.Log("cyle hint activated");
             Debug.Log("Hints: " + PlayerPrefs.GetInt(hintKey));
         }
     }
