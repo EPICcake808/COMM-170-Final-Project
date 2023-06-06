@@ -24,9 +24,8 @@ public class NewTimer : MonoBehaviour
         {
             SceneManager.LoadScene(sceneName: "elliotsus");
         }
-        PlayerPrefs.SetFloat("timerCount", timeLeft);
     }
-
+    
     IEnumerator Countdown() 
     {
         while(timeLeft >= 0) 
@@ -36,6 +35,8 @@ public class NewTimer : MonoBehaviour
             timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
             yield return new WaitForSeconds(1);
             timeLeft--;
+            PlayerPrefs.SetFloat("timerCount", timeLeft);
+            //Debug.Log("Timer: " + PlayerPrefs.GetFloat("timerCount"));
         } 
     }
 }

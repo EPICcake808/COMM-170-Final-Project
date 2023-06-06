@@ -27,11 +27,13 @@ public class MainManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
+        PlayerPrefs.SetFloat("timerCount", 600);
         currentHints = PlayerPrefs.GetInt(hintKey);
     }
 
     void Start()
     {
+        PlayerPrefs.DeleteAll();
         SetHints(0);
 
         lelliot = false;
