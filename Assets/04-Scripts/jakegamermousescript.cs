@@ -8,7 +8,6 @@ public class jakegamermousescript : MonoBehaviour
     public void OnActivate()
     {
         MainManager.Instance.jakeActivate();
-        NewTimer.Instance.SetTimer(timeLeft);
         SceneManager.LoadScene(sceneName: "elliotsus");
     }
 
