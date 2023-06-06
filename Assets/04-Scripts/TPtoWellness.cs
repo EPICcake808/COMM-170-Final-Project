@@ -7,6 +7,6 @@ public class TPtoWellness : MonoBehaviour
 {
     public void OnActivate()
     {
-        SceneManager.LoadScene(sceneName: "elliotsus");
+        SceneManager.LoadScene(sceneName: "Wellness");
     }
 }
