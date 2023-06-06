@@ -13,7 +13,7 @@ public class NewTimer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        timeLeft = PlayerPrefs.GetFloat("timerCount");
+        timeLeft = GetTimer();
         StartCoroutine(Countdown());
     }
 
@@ -22,7 +22,6 @@ public class NewTimer : MonoBehaviour
     {
         if(timeLeft <= 0)
         {
-            PlayerPrefs.SetFloat("timerCount", timeLeft);
             SceneManager.LoadScene(sceneName: "elliotsus");
         }
     }
@@ -37,5 +36,16 @@ public class NewTimer : MonoBehaviour
             yield return new WaitForSeconds(1);
             timeLeft--;
         } 
+    }
+
+    public void SetTimer(float timeLeft) 
+    {
+        PlayerPrefs.SetFloat("timerCount", timeLeft);
+    }
+
+    public float GetTimer()
+    {
+        float time = PlayerPrefs.GetFloat("timerCount");
+        return time;
     }
 }

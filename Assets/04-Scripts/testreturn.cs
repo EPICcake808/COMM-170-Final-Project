@@ -8,6 +8,7 @@ public class testreturn : MonoBehaviour
     public void OnActivate()
     {
         SceneManager.LoadScene(sceneName: "imaginarium");
+        NewTimer.Instance.GetTimer();
     }
 
 }
