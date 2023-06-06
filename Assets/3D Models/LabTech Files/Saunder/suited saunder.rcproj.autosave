@@ -1,0 +1,413 @@
+<RealityCapture version="1.2.1.116300" sceneRevision="88" sceneId="{849FE34F-5741-4379-BF6A-1C1CBD267625}">
+    <autosave>
+        <AutoSaveMetadata
+            machine="IMG-D-01094"
+            instance="0"
+            resourceCachePath="C:\Users\IMAGIN~2\AppData\Local\Temp\RealityCapture\"
+        />
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model880543B5955941C2AAA255B111C46E0F12291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model116580C4A032444F85EB9F2CB563D22612293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelE5373431FC8C4A45887ABD1704A1D5C612291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model9E862479AC334FA8A325F1477BEEFC8912293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelD65DE62D5DB8417DBE97C6F74BE2CF6812291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model1999DF84116F45DE924D380BA42BC1FB12293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelDC78C97137A946B28255ADDB875AB1D412294.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelC60701B6839344CFBF9E068D4FAE95FE_tex0_0.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelC60701B6839344CFBF9E068D4FAE95FE_tex0_1.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelAD5CF3DFCC2B4698B119A018BBF49B2012291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model0373F30C19CB4A0C99ECA7A9D22A8D8412293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model3B4AF200B705457C96074FFAFF831ED012291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model249223309904408D8462EBC77C5729AD12293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model729DB1F4E5E84F498A5125C89D6E506612291.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model6CDF1A48F4A14D7C8F0293175015A83112293.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\modelE301D2FDE02A40BCADE817894392961412294.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model41482F0EC7B44182972EC0BA3D4651D6_tex0_0.dat"/>
+        <resource fileName="D:\Trisha Nguyen\Saunder\suited saunder\model41482F0EC7B44182972EC0BA3D4651D6_tex0_1.dat"/>
+    </autosave>
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000001.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000002.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000003.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000004.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000005.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000006.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000007.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000008.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000009.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000010.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000011.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000012.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000013.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000014.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000015.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000016.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000017.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000018.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000019.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000020.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000021.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000022.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000023.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000024.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000025.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000026.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000027.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000028.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000029.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000030.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000031.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000032.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000033.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000034.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000035.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000036.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000037.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000038.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000039.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000040.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000041.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000042.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000043.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000044.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000045.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000046.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000047.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000048.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000049.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000050.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000051.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000052.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000053.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000054.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000055.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000056.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000057.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000058.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000059.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000060.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000061.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000062.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000063.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000064.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000065.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000066.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000067.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000068.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000069.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000070.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000071.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000072.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000073.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000074.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000075.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000076.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000077.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000078.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000079.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000080.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000081.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000082.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000083.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000084.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000085.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000086.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000087.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000088.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000089.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000090.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000091.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000092.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000093.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000094.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000095.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000096.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000097.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000098.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000099.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000100.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000101.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000102.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000103.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000104.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000105.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000106.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000107.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000108.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000109.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000110.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000111.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000112.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000113.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000114.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000115.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000116.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000117.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000118.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000119.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000120.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000121.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000122.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000123.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000124.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000125.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000126.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000127.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000128.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000129.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000130.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000131.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000132.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000133.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000134.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000135.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000136.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000137.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000138.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000139.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000140.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000141.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000142.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000143.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000144.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000145.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000146.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000147.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000148.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000149.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000150.png">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Desktop\IMG_6257 frames\frame000151.png">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{78BA09BB-8ED0-4D07-AC6A-88E97C6E0B73}">
+        <component name="Component 0" id="{3A0621AD-6CE7-4AEF-B927-B2D375FB7102}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm0.dat" selectedModel="2" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="suited saunder.autosave\colorNormalization0.dat" />
+            <metadata fileName="suited saunder.autosave\metadata14.dat"/>
+            <model name="Model 1" fileName="suited saunder.autosave\model0.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000040-0000-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="Model 2" fileName="suited saunder.autosave\model1.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000040-0000-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="Model 3" fileName="suited saunder.autosave\model2.dat" unwrappedArea="3.1000330924625416e+02" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.2731697410345078e-02" texturesUtilization="9.1651916503906250e-01" texelSize="1.1982774361968040e-02" chartsGutterSize="2" averageEdgeLength="4.8560943440337380e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="C60701B6-8393-44CF-BF9E-068D4FAE95FE001bf62e44e4a10044402e0af00a921e" cleanMark="2" selectedTxLayerGuid="{FDD48BBC-CDDF-436D-AED6-AF0527186819}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="13" id="{FDD48BBC-CDDF-436D-AED6-AF0527186819}" />
+                </textures>
+            </model>
+            <model name="Model 4" fileName="suited saunder.autosave\model3.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000040-0000-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+        </component>
+        <component name="Component 1" id="{F6AA92AF-EEC9-4C11-85CE-22F384623AE4}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm1.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata15.dat"/>
+        </component>
+        <component name="Component 2" id="{DEEF2DCF-8297-4FEC-B06D-935D9252255F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm2.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata16.dat"/>
+        </component>
+        <component name="Component 3" id="{6E51449B-9EC5-4A9E-B8EE-A3957948B5F2}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm3.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata17.dat"/>
+        </component>
+        <component name="Component 4" id="{3A5B0E79-1355-4966-A36E-E6F5DB4CE996}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm4.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata18.dat"/>
+        </component>
+        <component name="Component 5" id="{07C04759-30D6-4E4F-9E52-DCC72AF03465}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm5.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata19.dat"/>
+        </component>
+        <component name="Component 6" id="{A4E8A8DD-75E1-4E01-BE3F-7F4BA84F9E5F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm6.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata20.dat"/>
+        </component>
+        <component name="Component 0 (1)" id="{338A8649-10A1-482D-AE3E-6CD7CC1990FF}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm7.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata21.dat"/>
+        </component>
+        <component name="Component 1 (1)" id="{14995539-B69A-4C84-81EE-C4AA437505CD}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm8.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata22.dat"/>
+        </component>
+        <component name="Component 2 (1)" id="{6B91C0E8-C658-4563-84E1-B103705A8166}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm9.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata23.dat"/>
+        </component>
+        <component name="Component 3 (1)" id="{BCFEF4FD-4316-43CB-BA45-C5A539C334BD}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm10.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata24.dat"/>
+        </component>
+        <component name="Component 4 (1)" id="{A4D1DD96-6B21-4CC5-ADFF-E166BEC066DB}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm11.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata25.dat"/>
+        </component>
+        <component name="Component 5 (1)" id="{5FA11EE2-EE94-46D2-B1BC-BDA822D12D67}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm12.dat" selectedModel="-1" sfmVisible="1"> 
+            <metadata fileName="suited saunder.autosave\metadata26.dat"/>
+        </component>
+        <component name="Component 6 (1)" id="{78BA09BB-8ED0-4D07-AC6A-88E97C6E0B73}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="suited saunder.autosave\sfm13.dat" selectedModel="4" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="suited saunder.autosave\colorNormalization1.dat" />
+            <metadata fileName="suited saunder.autosave\metadata27.dat"/>
+            <model name="Model 1" fileName="suited saunder.autosave\model4.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000040-0185-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="Model 2" fileName="suited saunder.autosave\model5.dat" unwrappedArea="1.0602726580496710e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.6860701143741608e-02" texturesUtilization="7.7191925048828125e-01" texelSize="1.0415351949632168e-02" chartsGutterSize="2" averageEdgeLength="6.6260130372484308e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="41482F0E-C7B4-4182-972E-C0BA3D4651D6007f10de98f76e000866fa06203fd6c1" cleanMark="2" selectedTxLayerGuid="{E5A100F6-2643-4FB4-8A6B-F65A35A49531}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="28" id="{E5A100F6-2643-4FB4-8A6B-F65A35A49531}" />
+                </textures>
+            </model>
+            <model name="Model 3" fileName="suited saunder.autosave\model6.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000040-2643-4FB4-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="Model 4" fileName="suited saunder.autosave\model7.dat" unwrappedArea="5.2638622400835993e+02" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.5683146193623543e-02" texturesUtilization="7.2606658935546875e-01" texelSize="7.9531753435730934e-03" chartsGutterSize="2" averageEdgeLength="5.7735832387071855e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="1DCA2ABD-0F61-48FE-AB6E-DAFA1D6EA357c0d40dffa0a79a00c8aab909d078f180" cleanMark="2" selectedTxLayerGuid="{FCD6CC92-9740-46AF-9170-5BDEBE0F865A}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="23" id="{FCD6CC92-9740-46AF-9170-5BDEBE0F865A}" />
+                </textures>
+            </model>
+            <model name="Model 5" fileName="suited saunder.autosave\model8.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="11" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="0" selectedTxLayerGuid="{00000040-9740-46AF-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="suited saunder.autosave\entities1.dat"/>
+    <animation fileName="suited saunder.autosave\animation0.dat"/>
+    <controlpoints fileName="suited saunder.autosave\controlpoints1.dat"/>
+    <appConfig fileName="suited saunder.autosave\appConfig1.dat" />
+</RealityCapture>
