@@ -15,11 +15,6 @@ public class MainManager : MonoBehaviour
     public bool cyle;
 
     public bool pickHappened;
-    public bool lelliotpick;
-    public bool belliotpick;
-    public bool jakepick;
-    public bool saunderpick;
-    public bool cylepick;
 
     public int currentHints { get; set; }
 
@@ -50,44 +45,11 @@ public class MainManager : MonoBehaviour
         cyle = false;
 
         pickHappened = false;
-        lelliotpick = false;
-        belliotpick = false;
-        jakepick = false;
-        saunderpick = false;
-        cylepick = false;
     }
 
     void Update()
     {
-        if(pickHappened)
-        {
-            if(lelliotpick)
-            {
-                Debug.Log("You picked correct!");
-            }
-
-            if(belliotpick)
-            {
-                Debug.Log("You picked wrong!");
-            }
-
-            if(jakepick)
-            {
-                Debug.Log("You picked wrong!");
-            }
-
-            if(saunderpick)
-            {
-                Debug.Log("You picked wrong!");
-            }
-
-            if(cylepick)
-            {
-                Debug.Log("You picked wrong!");
-            }
-
-            walldestroy.Instance.DestroyWall();
-        }
+        
     }
 
     public void SetHints(int hintcount)
