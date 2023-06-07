@@ -8,6 +8,7 @@ public class elliotcomputerscript : MonoBehaviour
     public void OnActivate()
     {
         MainManager.Instance.lelliotActivate();
-        SceneManager.LoadScene(sceneName: "elliotsus");
+        MainManager.Instance.videoname = "saunder summons elliot_360.mp4";
+        SceneManager.LoadScene(sceneName: "saunder sniffing");
     }
 }

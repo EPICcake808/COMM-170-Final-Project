@@ -7,7 +7,8 @@ public class saunderfoodboxscript : MonoBehaviour
 {
     public void OnActivate()
     {
+        MainManager.Instance.videoname = "saunder eating_360.mp4";
         MainManager.Instance.saunderActivate();
-        SceneManager.LoadScene(sceneName: "elliotsus");
+        SceneManager.LoadScene(sceneName: "saunder sniffing");
     }
 }

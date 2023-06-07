@@ -22,7 +22,7 @@ public class NewTimer : MonoBehaviour
     {
         if(timeLeft <= 0)
         {
-            SceneManager.LoadScene(sceneName: "elliotsus");
+            SceneManager.LoadScene(sceneName: "Wellness");
         }
     }
     

@@ -15,6 +15,8 @@ public class MainManager : MonoBehaviour
     public bool cyle;
 
     public bool pickHappened;
+    public bool correctPick;
+    public string videoname;
 
     public int currentHints { get; set; }
 
@@ -45,6 +47,8 @@ public class MainManager : MonoBehaviour
         cyle = false;
 
         pickHappened = false;
+        correctPick = false;
+        videoname = "";
     }
 
     void Update()

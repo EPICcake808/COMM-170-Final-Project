@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class jakegamermousescript : MonoBehaviour
+public class belliothintscript : MonoBehaviour
 {
     public void OnActivate()
     {
-        MainManager.Instance.jakeActivate();
-        MainManager.Instance.videoname = "cyle fixing_360.mp4";
+        MainManager.Instance.belliotActivate();
+        MainManager.Instance.videoname = "saunder sniffing_360.mp4";
         SceneManager.LoadScene(sceneName: "saunder sniffing");
     }
 
