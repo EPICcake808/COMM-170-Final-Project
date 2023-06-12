@@ -11,21 +11,26 @@ public class destroycollider : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        DontDestroyOnLoad(gameObject);
     }
+
+/*  I realize I could have done this the by adding colliders and rigidbodies instead, and that would have been so much easier and more efficient.
+ *  But I've already put the colliders and rigidbodies on the models so screw it, we're doing it backwards.
+*/
 
     public void DestroyCollider(string name)
     {
         var objects = GameObject.FindGameObjectsWithTag("npc");
         var count = objects.Length;
+/*        Debug.Log("GameObjects found:");
+        foreach (var o in objects)
+        {
+            Debug.Log(o.name);
+        }
+*/
         var NoDestroy = GameObject.Find(name);
         foreach(var obj in objects)
         {
-            if(obj == NoDestroy)
-            {
-                continue;
-            }
-            else
+            if(obj != NoDestroy)
             {
                 Collider = obj.GetComponent<MeshCollider>();
                 rb = obj.GetComponent<Rigidbody>();
