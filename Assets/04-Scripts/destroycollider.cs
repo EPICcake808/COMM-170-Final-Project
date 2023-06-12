@@ -7,6 +7,12 @@ public class destroycollider : MonoBehaviour
     public static destroycollider Instance;
     public MeshCollider Collider;
     public Rigidbody rb;
+    
+    private void Awake()
+    {
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
 
     public void DestroyCollider(string name)
     {
