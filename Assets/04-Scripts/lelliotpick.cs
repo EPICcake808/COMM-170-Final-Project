@@ -14,6 +14,7 @@ public class lelliotpick : MonoBehaviour
             MainManager.Instance.correctPick = true;
             MainManager.Instance.pickHappened = true;
             walldestroy.Instance.DestroyWall();
+            destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextcorrect.Instance.StartChangeText();
         }

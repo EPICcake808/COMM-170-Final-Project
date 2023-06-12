@@ -13,6 +13,7 @@ public class cylepick : MonoBehaviour
             Debug.Log("You picked wrong!");
             MainManager.Instance.pickHappened = true;
             walldestroy.Instance.DestroyWall();
+            destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
         }

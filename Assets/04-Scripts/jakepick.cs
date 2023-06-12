@@ -14,7 +14,7 @@ public class jakepick : MonoBehaviour
             Debug.Log("You picked wrong!");
             MainManager.Instance.pickHappened = true;
             walldestroy.Instance.DestroyWall();
-            destroycollider.Instance.DestroyCollider("jake");
+            destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
         }
