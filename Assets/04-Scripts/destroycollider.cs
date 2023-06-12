@@ -21,8 +21,8 @@ public class destroycollider : MonoBehaviour
             }
             else
             {
-                Collider = GetComponent<MeshCollider>();
-                rb = GetComponent<Rigidbody>();
+                Collider = obj.GetComponent<MeshCollider>();
+                rb = obj.GetComponent<Rigidbody>();
                 Destroy(Collider);
                 Destroy(rb);
             }
