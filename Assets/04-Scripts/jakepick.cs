@@ -5,6 +5,7 @@ using UnityEngine;
 public class jakepick : MonoBehaviour
 {
     public Rigidbody rb;
+
     public void OnJakePick()
     {
         rb = GetComponent<Rigidbody>();
@@ -13,6 +14,7 @@ public class jakepick : MonoBehaviour
             Debug.Log("You picked wrong!");
             MainManager.Instance.pickHappened = true;
             walldestroy.Instance.DestroyWall();
+            destroycollider.Instance.DestroyCollider("jake");
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
         }
