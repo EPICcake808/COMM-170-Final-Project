@@ -13,7 +13,7 @@ public class destroycollider : MonoBehaviour
         Instance = this;
     }
 
-/*  I realize I could have done this the by adding colliders and rigidbodies instead, and that would have been so much easier and more efficient.
+/*  I realize I could have done this by adding colliders and rigidbodies instead, and that would have been so much easier and more efficient.
  *  But I've already put the colliders and rigidbodies on the models so screw it, we're doing it backwards.
 */
 
