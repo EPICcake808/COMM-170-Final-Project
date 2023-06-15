@@ -16,6 +16,7 @@ public class saunderpick : MonoBehaviour
             destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
+            MainManager.Instance.saunderPick = true;
         }
     }
 

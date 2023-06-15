@@ -6,8 +6,17 @@ using TMPro;
 public class HintScript : MonoBehaviour
 {
     [SerializeField] TMP_Text text;
+    private int hintCount;
     void Update()
     {
-        text.text = "Hints: " + PlayerPrefs.GetInt("Hints");
+        hintCount = PlayerPrefs.GetInt("Hints");
+        if(hintCount < 6)
+        {
+            text.text = "Hints: " + hintCount;
+        }
+        else
+        {
+            text.text = "Hints: " + hintCount + "<br>All Hints Found";
+        }
     }
 }

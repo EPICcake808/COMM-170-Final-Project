@@ -16,6 +16,7 @@ public class belliotpick : MonoBehaviour
             destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
+            MainManager.Instance.belliotPick = true;
         }
     }
 

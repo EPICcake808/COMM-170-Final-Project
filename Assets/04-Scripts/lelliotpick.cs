@@ -17,6 +17,7 @@ public class lelliotpick : MonoBehaviour
             destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextcorrect.Instance.StartChangeText();
+            MainManager.Instance.jakePick = true;
         }
     }
 

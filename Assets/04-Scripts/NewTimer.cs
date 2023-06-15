@@ -11,8 +11,15 @@ public class NewTimer : MonoBehaviour
     [SerializeField] float timeLeft = 600;
     [SerializeField] TMP_Text timerText;
     // Start is called before the first frame update
+
+    void Awake()
+    {
+        PlayerPrefs.SetFloat("timerCount", 600);
+    }
+
     void Start()
     {
+
         timeLeft = PlayerPrefs.GetFloat("timerCount");
         StartCoroutine(Countdown());
     }
@@ -20,12 +27,9 @@ public class NewTimer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(timeLeft <= 0)
-        {
-            SceneManager.LoadScene(sceneName: "Wellness");
-        }
+
     }
-    
+
     IEnumerator Countdown() 
     {
         while(timeLeft >= 0) 
@@ -38,5 +42,7 @@ public class NewTimer : MonoBehaviour
             PlayerPrefs.SetFloat("timerCount", timeLeft);
             //Debug.Log("Timer: " + PlayerPrefs.GetFloat("timerCount"));
         } 
+
+        SceneManager.LoadScene(sceneName: "Wellness");
     }
 }

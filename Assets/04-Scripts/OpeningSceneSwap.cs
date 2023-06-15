@@ -10,6 +10,7 @@ public class OpeningSceneSwap : MonoBehaviour
         if (other.gameObject.tag == "exit_intro")
         {
             SceneManager.LoadScene(sceneName: "imaginarium");
+            //SceneManager.LoadScene(sceneName: "Game", LoadSceneMode.Additive);
             Debug.Log("triggered");
         }
     }

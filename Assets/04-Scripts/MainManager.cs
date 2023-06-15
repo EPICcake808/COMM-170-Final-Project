@@ -13,6 +13,13 @@ public class MainManager : MonoBehaviour
     public bool jake;
     public bool saunder;
     public bool cyle;
+    public bool summon;
+
+    public bool lelliotPick;
+    public bool belliotPick;
+    public bool jakePick;
+    public bool saunderPick;
+    public bool cylePick;
 
     public bool pickHappened;
     public bool correctPick;
@@ -45,6 +52,13 @@ public class MainManager : MonoBehaviour
         jake = false;
         saunder = false;
         cyle = false;
+        summon = false;
+
+        lelliotPick = false;
+        belliotPick = false;
+        jakePick = false;
+        saunderPick = false;
+        cylePick = false;
 
         pickHappened = false;
         correctPick = false;
@@ -122,6 +136,19 @@ public class MainManager : MonoBehaviour
             SetHints(hints);
             cyle = true;
             Debug.Log("cyle hint activated");
+            Debug.Log("Hints: " + PlayerPrefs.GetInt(hintKey));
+        }
+    }
+
+    public void saunderSummon()
+    {
+        int hints = PlayerPrefs.GetInt(hintKey);
+        if(summon == false)
+        {
+            hints += 1;
+            SetHints(hints);
+            summon = true;
+            Debug.Log("summon hint activated");
             Debug.Log("Hints: " + PlayerPrefs.GetInt(hintKey));
         }
     }

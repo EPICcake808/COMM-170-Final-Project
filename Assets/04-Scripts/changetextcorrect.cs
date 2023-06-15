@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class changetextcorrect : MonoBehaviour
@@ -73,5 +74,7 @@ public class changetextcorrect : MonoBehaviour
         text.text = "You Guessed Correctly";
         yield return new WaitForSeconds(0.1f);
         text.text = "You Guessed Correctly!";
+        yield return new WaitForSeconds(5f);
+        SceneManager.LoadScene(sceneName: "End");
     }
 }

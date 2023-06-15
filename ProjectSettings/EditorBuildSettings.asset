@@ -6,26 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01-Scenes/Game.unity
-    guid: 5c65347730680024b8cda261078e7c84
-  - enabled: 1
     path: Assets/01-Scenes/Start.unity
     guid: 1decc097f8e717f48abc571ae3be2045
+  - enabled: 1
+    path: Assets/01-Scenes/Game.unity
+    guid: 5c65347730680024b8cda261078e7c84
   - enabled: 1
     path: Assets/01-Scenes/Open.unity
     guid: cb56624fd3792874caf415f7361ed10a
   - enabled: 1
-    path: Assets/01-Scenes/elliotsus.unity
-    guid: 5d9bbd5aaf8f0c34ea99c8a13c9dec35
-  - enabled: 1
     path: Assets/01-Scenes/imaginarium.unity
     guid: 84fff69b4caded94f89720abc98e5c78
   - enabled: 1
-    path: Assets/01-Scenes/Wellness.unity
-    guid: 15862403b784364449dd04c664114af2
-  - enabled: 1
     path: Assets/01-Scenes/saunder sniffing.unity
     guid: c2f882495c0c34c43b712d83365a1c05
+  - enabled: 1
+    path: Assets/01-Scenes/Wellness.unity
+    guid: 15862403b784364449dd04c664114af2
   - enabled: 1
     path: Assets/01-Scenes/End.unity
     guid: 48fb9ff6be4de6648b638ae94c653ecf

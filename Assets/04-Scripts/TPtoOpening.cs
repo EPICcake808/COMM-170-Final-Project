@@ -8,5 +8,6 @@ public class TPtoOpening : MonoBehaviour
     public void OnActivate()
     {
         SceneManager.LoadScene(sceneName: "Open");
+        //SceneManager.LoadScene(sceneName: "Game", LoadSceneMode.Additive);
     }
 }

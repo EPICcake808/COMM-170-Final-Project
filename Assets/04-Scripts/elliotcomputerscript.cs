@@ -5,10 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class elliotcomputerscript : MonoBehaviour
 {
+    public Player thisPlayer;
+    public Transform returnCoord;
     public void OnActivate()
     {
         MainManager.Instance.lelliotActivate();
-        MainManager.Instance.videoname = "saunder summons elliot_360.mp4";
+        MainManager.Instance.videoname = "Empty Elliot.mp4";
         SceneManager.LoadScene(sceneName: "saunder sniffing");
+        thisPlayer.SaveData(returnCoord);
     }
 }

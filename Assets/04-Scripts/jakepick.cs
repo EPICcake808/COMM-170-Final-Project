@@ -17,6 +17,7 @@ public class jakepick : MonoBehaviour
             destroycollider.Instance.DestroyCollider(gameObject.name);
             StartCoroutine(Eject(rb));
             changetextwrong.Instance.StartChangeText();
+            MainManager.Instance.jakePick = true;
         }
     }
 

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class changetextwrong : MonoBehaviour
@@ -65,5 +66,7 @@ public class changetextwrong : MonoBehaviour
         text.text = "You Guessed Wrong";
         yield return new WaitForSeconds(0.1f);
         text.text = "You Guessed Wrong!";
+        yield return new WaitForSeconds(5f);
+        SceneManager.LoadScene(sceneName: "End");
     }
 }
